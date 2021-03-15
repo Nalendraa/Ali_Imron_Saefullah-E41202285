@@ -29,7 +29,7 @@ public class TUGAS_D {
         
 // Gabungkan dan Print
         int nilaiakhir = nilaiuts + nilaiuas;
-        System.out.println ("Nilai Akhir   = " +nilaiakhir  /2);
+        System.out.println ("Nilai Akhir   = " +nilaiakhir  /270);
         
         
        
